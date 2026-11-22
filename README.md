@@ -1,0 +1,1 @@
+# GRC103_Wazuh_Practical_Risk_Monitoring
